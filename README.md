@@ -18,7 +18,7 @@ The API will return a JSON response indicating whether the input string has all 
 ### Local Installation 
 1. **Clone the repository** In this case Github is our choice
  2. **Install the dependencies** In this case only `flask` library is needed
-3. **run the app** with the command flask --ap app run --host=0.0.0.0 --port=5000
+3. **run the app** with the command flask --app app run --host=0.0.0.0 --port=5000
  
  
 ### AWS Serverless Installation
